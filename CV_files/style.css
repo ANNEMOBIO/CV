@@ -11,7 +11,7 @@ body {
 
 .container {
     margin: auto;
-    display: grid;
+    display: flex;
     grid-template-columns: 0.33fr 1fr;
     width: 210mm; /* Ajusté pour un format A4, peut-être trop grand pour un écran de téléphone */
     height: 297mm; /* Ajusté pour un format A4, peut-être trop grand pour un écran de téléphone */
